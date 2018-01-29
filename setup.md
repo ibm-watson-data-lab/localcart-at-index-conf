@@ -13,16 +13,16 @@ Complete the following steps to get set up for the scenarios.
 1. Provision the required Cloud data services
     1. Open the Data Services page
         * Click [this link](https://dataplatform.ibm.com/data/discovery?target=services&context=analytics) or choose **Data Services** > **Services** from the main menu
-    1. Provision the following IBM Cloud Services (if you don't already have an instance provisioned)
+    1. Provision the following IBM Cloud Service (if you don't already have an instance provisioned)
        * Compose for Redis (Standard plan, which is not free) [[Learn more...]](https://console.bluemix.net/catalog/services/compose-for-redis)
-       * Message Hub (Standard plan, which is not free) [[Learn more ...]](https://console.bluemix.net/catalog/services/message-hub)
 1. Add the Data Catalog app to your Watson Data Platform
    * Click the avatar icon on the upper right hand side and choose **Add Other Apps**. Skip the next step if this option is not displayed. 
    * Choose the **Data Catalog Lite** plan, which is free. 
 1. Create a project  
    * Click [this link](https://dataplatform.ibm.com/projects/new-project?context=analytics) or choose **Projects** > **View All Projects** from the main menu
    * Enter a name and select a Cloud Object Storage and Spark service instance. If no instances are available, add new ones.
-
+1. Provision a Watson Machine Learning service
+   * Open https://console.bluemix.net/catalog/services/machine-learning in a new browser window and choose the **Lite plan**.
 
 ### Scenario One: Real-time dashboard - dynamic data analysis and visualization
 
