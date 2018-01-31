@@ -1,4 +1,4 @@
-# localcart-at-index-conf
+# Workshop: Accelerate Decisions in a Data-First World: How to build a streaming pipeline and deploy a recommendation engine
 
 ### Getting started
 
