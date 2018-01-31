@@ -6,7 +6,7 @@ Follow [these instructions](https://github.com/ibm-watson-data-lab/localcart-at-
 
 ### Preview the scenarios
 
-* [Scenario 1](https://github.ibm.com/ibm-watson-data-lab/index-conference-2018-drafts/blob/master/notebooks/localcart-scenario-one.ipynb)
-* [Scenario 2](https://github.ibm.com/ibm-watson-data-lab/index-conference-2018-drafts/blob/master/notebooks/localcart-scenario-two.ipynb)
-* [Scenario 3](https://github.ibm.com/ibm-watson-data-lab/index-conference-2018-drafts/blob/master/notebooks/localcart-scenario-three.ipynb)
-* [Scenario 4](https://github.ibm.com/ibm-watson-data-lab/index-conference-2018-drafts/blob/master/notebooks/localcart-scenario-four.ipynb)
+* [Scenario 1](/notebooks/localcart-scenario-one.ipynb)
+* [Scenario 2](/notebooks/localcart-scenario-two.ipynb)
+* [Scenario 3](/notebooks/localcart-scenario-three.ipynb)
+* [Scenario 4](/notebooks/localcart-scenario-four.ipynb)
