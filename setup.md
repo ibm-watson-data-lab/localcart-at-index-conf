@@ -26,8 +26,7 @@ Complete the following steps to get set up for the scenarios.
 
 ### Scenario One: Real-time dashboard - dynamic data analysis and visualization
 
-In the project add a new notebook from URL https://github.ibm.com/ibm-watson-data-lab/index-conference-2018-drafts/blob/master/notebooks/localcart-scenario-one.ipynb
-
+In the project add a new notebook from URL https://raw.github.ibm.com/ibm-watson-data-lab/index-conference-2018-drafts/master/notebooks/localcart-scenario-one.ipynb?token=AAAf8HhHf_J28U0RejcA985CRznX4oS9ks5ae1rAwA%3D%3D
 
 ### Scenario Two: Static data analysis using Python, Apache Spark and PixieDust
 
