@@ -24,9 +24,12 @@ Complete the following steps to get set up for the scenarios.
 1. Provision a Watson Machine Learning service
    * Open https://console.bluemix.net/catalog/services/machine-learning in a new browser window and choose the **Lite plan**.
 
-1. Take note of the following Message Hub credentials
-   * Credentials will be made avaialble during the event
-
+1. Take note of the following Message Hub service information
+   * **Name**: `clickstream` 
+   * **API key**: `4Xy7RHj24N8v96hBj6vphZVJspYfIh5uGRGFM2NywaHFM1El`
+   * **Brokers**: `kafka02-prod01.messagehub.services.us-south.bluemix.net:9093,kafka01-prod01.messagehub.services.us-south.bluemix.net:9093,kafka04-prod01.messagehub.services.us-south.bluemix.net:9093,kafka03-prod01.messagehub.services.us-south.bluemix.net:9093,kafka05-prod01.messagehub.services.us-south.bluemix.net:9093`
+   * **Username**: `4Xy7RHj24N8v96hB`
+   * **Password**: `j6vphZVJspYfIh5uGRGFM2NywaHFM1El`
 
 ### Scenario One: Real-time dashboard - dynamic data analysis and visualization
 
