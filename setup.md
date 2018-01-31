@@ -24,6 +24,10 @@ Complete the following steps to get set up for the scenarios.
 1. Provision a Watson Machine Learning service
    * Open https://console.bluemix.net/catalog/services/machine-learning in a new browser window and choose the **Lite plan**.
 
+1. Take note of the following Message Hub credentials
+   * Credentials will be made avaialble during the event
+
+
 ### Scenario One: Real-time dashboard - dynamic data analysis and visualization
 
 In the project add a new notebook from URL https://raw.github.ibm.com/ibm-watson-data-lab/index-conference-2018-drafts/master/notebooks/localcart-scenario-one.ipynb?token=AAAf8HhHf_J28U0RejcA985CRznX4oS9ks5ae1rAwA%3D%3D
