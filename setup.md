@@ -39,11 +39,11 @@ Complete the following steps to get set up for the scenarios.
 
 ### Scenario: Static data analysis using Python, Apache Spark, and PixieDust
 
-In the project add a new notebook from URL https://raw.github.ibm.com/ibm-watson-data-lab/localcart-at-index-conf/master/notebooks/localcart-scenario-two.ipynb?token=AAAf8J59ByGDthIm7JRkB_gBhegsz4c9ks5akFBQwA%3D%3D
+In the project add a new notebook from URL https://raw.githubusercontent.com/ibm-watson-data-lab/localcart-at-index-conf/master/notebooks/localcart-scenario-two.ipynb
 
 ### Scenario: Build a product recommendation engine
 
-In the project add a new notebook from URL https://raw.github.ibm.com/ibm-watson-data-lab/localcart-at-index-conf/master/notebooks/localcart-scenario-three.ipynb?token=AAAf8H8dIsg1Z5OqJ-GRumG3VeEmbUTrks5akFAvwA%3D%3D
+In the project add a new notebook from URL https://raw.githubusercontent.com/ibm-watson-data-lab/localcart-at-index-conf/master/notebooks/localcart-scenario-three.ipynb
 
 ### Scenario: Build a revenue dashboard using PixieApps
-In the project add a new notebook from URL https://raw.github.ibm.com/ibm-watson-data-lab/localcart-at-index-conf/master/notebooks/localcart-scenario-four.ipynb?token=AAAf8JvkrA0Xf0rUlN1uI2a34Y-DaGRJks5akE_5wA%3D%3D
+In the project add a new notebook from URL https://raw.githubusercontent.com/ibm-watson-data-lab/localcart-at-index-conf/master/notebooks/localcart-scenario-four.ipynb
