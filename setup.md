@@ -15,6 +15,7 @@ Complete the following steps to get set up for the scenarios.
         * Click [this link](https://dataplatform.ibm.com/data/services?target=data-services&context=analytics) or choose **Services** > **Data Services** from the main menu
     1. Provision the following data services (if you don't already have an instance provisioned)
        * Cloud Object Storage (Lite plan, which is free) [[Learn more about this service...]](https://console.bluemix.net/catalog/infrastructure/cloud-object-storage)
+       * Compose for Redis (Standard plan, which is not free; name the service instance `ComposeForRedis-WDPBeta`) [[Learn more about this service...]](https://console.bluemix.net/catalog/services/compose-for-redis)
     1. Open the Compute Services page
         * Click [this link](https://dataplatform.ibm.com/data/services?target=compute-services&context=analytics) or choose **Services** > **Compute Services** from the main menu
     1. Provision the following compute services (if you don't already have an instance provisioned)
@@ -47,3 +48,6 @@ In the project add a new notebook from URL https://raw.githubusercontent.com/ibm
 
 ### Scenario: Build a revenue dashboard using PixieApps
 In the project add a new notebook from URL https://raw.githubusercontent.com/ibm-watson-data-lab/localcart-at-index-conf/master/notebooks/localcart-scenario-four.ipynb
+
+### Scenario: Dynamic data analysis and visualization
+In the project add a new notebook from URL https://raw.githubusercontent.com/ibm-watson-data-lab/localcart-at-index-conf/master/notebooks/localcart-scenario-one.ipynb
