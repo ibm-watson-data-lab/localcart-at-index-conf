@@ -6,9 +6,9 @@ Follow [these instructions](/setup.md) to get set up.
 
 ### Preview the scenarios
 
-* [Scenario: Static data analysis using Python, Apache Spark and PixieDust](/notebooks/localcart-scenario-two.ipynb)
-* [Scenario: Build a product recommendation engine](/notebooks/localcart-scenario-three.ipynb)
-* [Scenario: Build a revenue dashboard using PixieApps](/notebooks/localcart-scenario-four.ipynb)
+* [Scenario: Static data analysis using Python, Apache Spark and PixieDust](scenario_2.md)
+* [Scenario: Build a product recommendation engine](scenario_3.md)
+* [Scenario: Build a revenue dashboard using PixieApps](scenario_4.md)
 
 ### Workshop instructors
 
