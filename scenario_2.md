@@ -13,6 +13,6 @@ Learn how to analyze data in a Python notebook using Apache Spark and PixieDust
 #### Getting started
 
 * Open [IBM Watson Data Platform](http://datascience.ibm.com/analytics)
-* Create a new projects (or re-use an existing one)
+* Create a new project (or re-use an existing one) and associate it with a Apache Spark service instance 
 * Add a new notebook from URL https://raw.githubusercontent.com/ibm-watson-data-lab/localcart-at-index-conf/master/notebooks/localcart-scenario-two.ipynb
-* Follow the instructions
+* Follow the notebook instructions
