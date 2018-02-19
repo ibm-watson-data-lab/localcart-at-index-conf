@@ -2,9 +2,11 @@
 
 Learn how to analyze data in a Python notebook using Apache Spark and PixieDust
 
+![scenario_2](https://raw.githubusercontent.com/ibm-watson-data-lab/localcart-at-index-conf/master/images/scenario_2.png)
+
 #### Prerequisites
  * Apache Spark
- * PixieDust
+ * PixieDust (A Python helper library for developers and data scientists)
 
 #### Notebook preview
 
