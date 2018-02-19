@@ -1,10 +1,6 @@
 # Workshop: Accelerate Decisions in a Data-First World: How to build a streaming pipeline and deploy a recommendation engine
 
-### Getting started
-
-Follow [these instructions](/setup.md) to get set up.
-
-### Preview the scenarios
+### Example Scenarios
 
 * [Scenario: Static data analysis using Python, Apache Spark and PixieDust](scenario_2.md)
 * [Scenario: Build a product recommendation engine](scenario_3.md)
