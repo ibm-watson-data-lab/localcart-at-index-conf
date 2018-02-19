@@ -9,7 +9,7 @@ Learn how to create, deploy and consume a Machine Learning model.
 
 #### Notebook preview
 
- * [Click to preview]()
+ * [Click to preview](https://dataplatform.ibm.com/analytics/notebooks/v2/24b969dd-8f99-4faa-85ab-8b9acb061de2/view?access_token=442519e73381e88ff7191632099a03736a3c04afa67c02ade52f19742629d756)
  
 #### Getting started
 
