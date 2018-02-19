@@ -15,6 +15,6 @@ Learn how to create, deploy and consume a Machine Learning model.
 
 * Open [IBM Watson Data Platform](http://datascience.ibm.com/analytics)
 * Create a new project (or re-use an existing one) and associate it with a Apache Spark service instance 
-* [Provision a Watson Machine Learning service instance choosing the **Lite** plan](https://dataplatform.ibm.com/data/discovery/predictive-modeling/details?target=compute-services&context=analytics)
+* [Provision a Watson Machine Learning service instance choosing the **Lite** plan](https://dataplatform.ibm.com/data/discovery?target=compute-services&context=analytics)
 * Add a new notebook from URL https://raw.githubusercontent.com/ibm-watson-data-lab/localcart-at-index-conf/master/notebooks/localcart-scenario-three.ipynb
 * Follow the notebook instructions
