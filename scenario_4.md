@@ -11,7 +11,7 @@ Learn how to use streaming analytics to process and aggregate data in real-time 
 
 #### Notebook preview
 
- * [Click to preview]()
+ * [Click to preview](https://dataplatform.ibm.com/analytics/notebooks/v2/d939eb57-c028-4286-9a50-63282ff0b55b/view?access_token=f04081f2215f1041e83828b84db27d809d2c06d34b79a1a0c42d15ee1edd3e38)
  
 #### Getting started
 
