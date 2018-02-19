@@ -10,7 +10,7 @@ Learn how to analyze data in a Python notebook using Apache Spark and PixieDust
 
 #### Notebook preview
 
- * https://github.com/ibm-watson-data-lab/localcart-at-index-conf/blob/master/notebooks/localcart-scenario-two.ipynb
+ * [Click to preview](https://github.com/ibm-watson-data-lab/localcart-at-index-conf/blob/master/notebooks/localcart-scenario-two.ipynb) (no setup required)
  
 #### Getting started
 
