@@ -1,4 +1,4 @@
-### Static data analysis using Python and PixieDust
+### Scenario: Static data analysis using Python, Apache Spark, and PixieDust
 
 Learn how to analyze data in a Python notebook using Apache Spark and PixieDust
 
