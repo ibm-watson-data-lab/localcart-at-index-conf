@@ -31,10 +31,10 @@ Complete the following steps to get set up for the scenarios.
 
 1. Take note of the information for the shared Message Hub service, which distributes the events that drive some of the workshop scenarios
     * **Name**: `clickstream` 
-    * **API key**: `4Xy7RHj24N8v96hBj6vphZVJspYfIh5uGRGFM2NywaHFM1El`
-    * **Brokers**: `kafka02-prod01.messagehub.services.us-south.bluemix.net:9093,kafka01-prod01.messagehub.services.us-south.bluemix.net:9093,kafka04-prod01.messagehub.services.us-south.bluemix.net:9093,kafka03-prod01.messagehub.services.us-south.bluemix.net:9093,kafka05-prod01.messagehub.services.us-south.bluemix.net:9093`
-    * **Username**: `4Xy7RHj24N8v96hB`
-    * **Password**: `j6vphZVJspYfIh5uGRGFM2NywaHFM1El`
+    * **API key**: ``
+    * **Brokers**: ``
+    * **Username**: ``
+    * **Password**: ``
 
 
 ### Scenario: Static data analysis using Python, Apache Spark, and PixieDust
